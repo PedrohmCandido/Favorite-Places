@@ -55,8 +55,7 @@ src/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/PedrohmCandido/placepicker.git
-   cd placepicker
+   git clone https://github.com/PedrohmCandido/Place-Picker.git
    ```
 
 2. Instale as dependências:
@@ -100,6 +99,5 @@ Sinta-se livre para usar, modificar e compartilhar! 🚀
 
 ## 🌐 Links Importantes
 
-- 🔗 **Repositório GitHub:** [github.com/seu-usuario/placepicker](https://github.com/PedrohmCandido/Place-Picker)
 - 🔗 **Demo Online:** https://favorite-places-lake.vercel.app/
 
