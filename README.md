@@ -75,13 +75,6 @@ src/
 
 ---
 
-## 🔒 Licença
-
-Este projeto está licenciado sob a **MIT License**.  
-Sinta-se livre para usar, modificar e compartilhar! 🚀
-
----
-
 ## 📸 Imagens do Projeto
 
 ### Página principal
